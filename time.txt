@@ -1,8 +1,4 @@
 nice
 to
 meet
-<<<<<<< HEAD
-yotube
-=======
-you hoo
->>>>>>> sinjungwoo-branch
+you
